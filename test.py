@@ -1,1 +1,1 @@
-print("Hello world)
+print("연습용")
